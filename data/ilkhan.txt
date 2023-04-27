@@ -1,0 +1,80 @@
+Ilkhan Ryssaliyev
+
+SUMMARY
+Experienced Senior PL/SQL developer with a track record of success in designing, 
+implementing, and maintaining complex database systems. Skilled in performance tuning, 
+query optimization. Passionate about using and learning new technology.
+
+CONTACT
+Almaty, Kazakhstan 
++77089493805 
+rilhan1995@gmail.com
+
+WORK EXPERIENCE 
+Senior PL/SQL Developer
+Kaspi.kz, Almaty KZ
+Nov 2021 – Dec 2022
+• Led the design and implementation of complex data transfer processes using web 
+services and Oracle Advanced Queuing, enabling seamless data exchange between 
+disparate databases and systems.
+• Conducted performance tuning and troubleshooting activities, optimizing query 
+performance and reducing system downtime.
+• Developed customized reports and dashboards to provide critical business insights, 
+resulting in improved business outcomes.
+• Maintained technical documentation and user manuals for ongoing support
+• Developed Python scripts to ETL data from various sources for one-time reports
+Senior PL/SQL Developer
+Eurasian Bank, Almaty KZ
+Apr 2021 - Oct 2021
+• Led the development and implementation of system integrations with other systems, 
+web services, and databases.
+• Designed and developed optimized PL/SQL scripts to efficiently send and process XML 
+and JSON data.
+Middle PL/SQL Developer
+"Kommesk-Omir" Insurance Company, Almaty KZ
+Nov 2018 - Dec 2020
+• Developed and maintained complex types, objects, packages, procedures, functions, 
+and DB links to support the company's business needs, ensuring high code quality.
+• Collaborated with the web team to create user pages on the company website and to 
+develop e-policy functionality, resulting in a 100% increase in online policy purchases.
+• Worked closely with the product team to develop new insurance products and to 
+enhance existing ones, resulting in an increase in product sales and customer 
+satisfaction.
+• Conducted code reviews and guidance to junior developers, ensuring coding standards 
+and best practices.
+Junior PL/SQL Developer
+"Kommesk-Omir" Insurance Company, Almaty KZ
+Oct 2016 - Oct 2018
+• Created and generated reports for the management team on a regular basis, providing 
+valuable insights.
+• Handled user authentication issues, including password resets and unblocking 
+accounts, ensuring that all users were able to access necessary systems and resources.
+• Collaborated with HR team to automate their e-document processes, resulting in a 40% 
+reduction in processing time and a 20% increase in accuracy of data.
+
+EDUCATION
+International Information Technology University, Almaty KZ
+Bachelor Degree in Information Technology
+2012 - 2016 
+Completed strong coursework in key areas of information technology, including database 
+design and management, Oracle SQL, PL/SQL, C++, and Python programming. Developed 
+practical skills in software development, data analysis, and database administration through 
+hands-on projects and coursework
+
+LANGUAGES
+English - B2 
+Russian - native 
+Kazakh - native 
+Kyrgyz - native
+
+SKILLS
+• SQL 
+• PL/SQL 
+• XML, JSON 
+• Optimization
+• Git
+• Python 
+• JavaScript
+• HTML
+• CSS
+• REST Api

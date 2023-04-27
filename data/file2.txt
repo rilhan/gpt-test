@@ -1,0 +1,22 @@
+Improvado Raises $22 Million In Series A Funding And Launches Its Marketing And Sales Data Aggregation Platform for Enterprise
+
+We are proud to announce that Improvado, our automated Revenue Data Platform, has raised $22 million in Series A funding, led by Updata Partners. Series A is a crucial milestone for us, and we're only gaining momentum after our seed round. This funding enables us to develop our Revenue Data Platform further and deliver clear marketing and sales insights to our industry-leading partners.
+
+Our Revenue Data Platform helps marketing and sales teams to connect data from 300+ marketing and sales sources in one place and build a comprehensive picture of their efforts. The platform aggregates data from Facebook, YouTube, Salesforce, TradeDesk, and various other sources to help analysts and C-Suite executives make informed decisions about the distribution of their marketing dollars.
+
+Improvado's aggregation hub, built by our CTO Dmitry Nasikanov, helps decision-makers extract actionable insights from raw data without manually digging into each individual platform or writing complicated SQL queries. These insights help businesses understand how their marketing campaigns perform, how effectively they are allocating their marketing budgets across channels, and where the potential points for improvement are located.
+
+This Series A funding gives Improvado a significant boost toward achieving our future goals. Our team is growing rapidly to increase the number of supported data sources, deliver new features, and provide even more flexibility for our partners. What's more, we're expanding our professional services package to fulfill our clients' needs for advanced analytics, dashboarding, and data engineering.
+
+“Improvado is the best tool on the market,” said Activision Senior Media Analyst Waleed Noury, an Improvado customer. “Improvado provided us with a simple solution to a complicated problem. Moreover, I have not seen any other platform that is as easy to implement as Improvado. The initial setup — connecting all of our media platforms — took under an hour. The remaining configuration of reports from those API connections took a week. We now rely fully on Improvado for multiple dashboards that we use for day-to-day marketing operations and strategy, as well as for presentations to executive leadership. Users may have minimal technical skills or be highly skilled — it works very well either way. The scalability of its offerings makes Improvado applicable for small marketers as well as companies as big as Activision.”
+
+“Advertisers struggle to understand their ROI across multiple marketing platforms,” said PubMatic Cofounder and CEO Rajeev Goel. “By explaining that ROI clearly and quickly, Improvado’s technology serves an important function — and addresses an important market opportunity.”  
+
+“Marketers need tools that make sense of the ever-expanding online marketing landscape,” said Updata Partners General Partner Jon Seeber. “Our investment in Improvado displays our confidence not only in Improvado’s excellent leadership team, but also in the widespread need for their solution.” 
+
+“With 90% of ad budgets being a waste and an average Enterprise marketing department employing about 92 vendors, it is difficult for revenue leaders to make informed decisions due to data fragmentation," said Improvado CEO Daniel Kravtsov. "While the modern data stack came to the rescue, building it in-house requires several different vendors and strong Analytics, DevOps, and Engineering engagement. To handle that, we built Improvado, a single modern revenue data platform that requires zero code and allows revenue teams to focus on deeper insights and pure performance."
+
+Aggregate revenue data with Improvado
+Aggregating revenue data is a lengthy and dull process if done manually. The more data marketers gather, the more tangled their final insights are. And that's why Improvado exists. We strive to help marketing and sales leaders achieve granular insights and full visibility into their activities.
+
+Schedule a call if you want to know how Improvado can increase your revenue with granular insights into your marketing and sales data.

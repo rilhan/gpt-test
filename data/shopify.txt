@@ -1,0 +1,151 @@
+Why Build a Shopify Dashboard? 
+Whether it be a fast-evolving start-up or a well-established enterprise, your store generates so much data that it’s almost impossible to keep an eye on every single metric. That said, you’re unlikely to see a fuller picture of your business performance. However, this can be easily solved with an all-in-one Shopify dashboard that presents all your data in an easily digestible and understandable view. Let’s dive deeper into the benefits it brings to you. 
+
+It helps you make informed decisions faster
+Without proper Shopify data visualization solutions that integrate with other tools (such as social media business accounts or AI-based solutions for Shopify users), users waste a lot of time. Analysts have to join and update data across platforms manually, which always implies a certain risk of human error. If figures don’t stack up, their efforts have basically gone up in smoke — you cannot act on the misleading information. And how is that efficient?
+
+What is indubitably efficient and speeds up your decision-making is a marketing analytics platform that gathers all Shopify metrics and combines them with data from other ad platforms to display it on a centralized dashboard. For example, Improvado enables you with cross-channel dashboards to understand how your marketing efforts influence your store’s performance. 
+
+Data visualization is just a step on the long business journey!
+Improvado ensures the quality of data and its flow across all the sources you use, seamlessly transforms and visualizes it in an analysis-ready manner. Schedule a call with our product expert to find the solution tailored exclusively to your business needs!
+
+Schedule a call
+Dashboards improve collaboration
+Among a variety of Shopify marketing automation tools or Shopify analytics dashboards, those allowing collaboration lead the way. At Improvado, we’re keenly aware of how crucial it is for all employees and some stakeholders to have access to Shopify reports, KPIs, and the most performance-oriented metrics. With the right tool, your team will be able to design custom Shopify dashboards and analyze them together. 
+
+Having a single source of truth where all the metrics are up-to-date (being updated in an automated and timely fashion) is of paramount importance to all concerned, be they outsourced consultants or investors keeping their finger on the pulse of your shop’s performance. 
+
+Need shared access to all dashboards?
+A Need to send automated reports to all stakeholders?
+With Improvado’s centralized dashboard, such tasks are to be resolved in few clicks Plus, there’s much more than meets the eye — book a 30-minute commitment-free call to find out how Improvado can help you make the most of your data! 
+
+Actionable insights for all parties
+Different specialists use different metrics to assess marketing performance. While CFO operates with metrics such as monthly revenue and average order value, marketers focus on the cost of acquisition, conversions, and brand awareness metrics. 
+
+A customizable Shopify dashboard provides equally useful insights for all parties. A global overview might show basic metrics that provide a general picture of the performance. When diving deeper, a comprehensive Shopify dashboard contains all revenue and marketing-related metrics. 
+
+Here’s an example of Improvado’s executive summary dashboard that shows how your marketing campaigns perform across all channels:
+
+Improvado's paid search dashboard : overview
+The same exact dashboard shows you the metrics across each keyword you’re targeting with your paid ads:
+
+ Improvado's paid search dashboard : keyword performance
+While the executive summary tab shows the overall impact of marketing efforts to the C-Suite or stakeholders, the keyword performance tab lets marketers optimize their campaigns for relevant search queries, making this dashboard a universal analytics tool for all team members.
+
+A single source of truth for cross-channel marketing 
+Shopify marketing goes well beyond Google Shopping and Facebook Ads. These days, successful e-commerce businesses use a variety of platforms, from TikTok to Pinterest, to find new audiences and activate new customers. Let alone classic data sources, such as online store analytics systems, Google Analytics, and email marketing software. 
+
+Recently, Shopify rolled out its new ‘Audiences’ feature designed to help marketers attribute purchases from different ad accounts (e.g., Facebook Ads). What it basically does, is match the email of the order with the customer’s Facebook email to then identify the most promising audiences for your business.
+
+The main issue of Shopify’s “Audiences” is the number of supported data sources. It only allows you to gather audiences across Facebook and Google Ads. Currently, marketers need to keep an eye on way more platforms than Facebook and Google.
+
+That’s where marketing analytics platforms make a world of difference. Improvado uses an attribution system that can smoothly integrate with any ad platform in Improvado’s library. With its help, you can connect the dots between marketing, sales, and financial data and identify the most promising audiences across all your ad channels. With 500+ different integrations, there won’t be any platform left that you can’t attribute revenue from.
+
+Here’s an example of the attribution dashboard that uses different attribution models to analyze performance across channels by Improvado:
+
+ Improvado’s attribution 
+From gut feelings to clear-cut dashboards.
+
+With data constantly pulled right, left, and center, keeping a firm grip on it is absolutely vital. Not only does accurate data enable the reliability of the analysis, but it also expands its scope.
+
+Improvado goes beyond cross-channel marketing analytics — advanced marketing analytics! You get complete control over your data and, more importantly, gain critical insights in a single platform into:
+
+Cross-Channel Analytics
+Marketing Cost per Acquisition
+ROMI
+eCommerce Analytics
+Marketing Attribution
+Customer Journey Analytics
+Talk to our expert about your business and its goals and get the offer tailored to your needs!
+
+What Should a Shopify Dashboard Include? 
+ Improvado’s Shopify dashboard template
+If you have a look at the best marketing dashboard examples, you will see that they usually contain information such as:
+
+the efficiency of marketing campaigns (including those in top retail media networks and social media),
+sales results,
+customer behavior,
+inventory level,
+operational costs.
+Selecting the right metrics for your Shopify dashboard strongly depends on your position in the e-commerce company and what your tasks are. 
+
+Data should be presented in the form of charts, tables, and other types of visualization. 
+
+Any Shopify sales dashboard should provide you with the following metrics and KPIs:
+
+Traffic 
+Traffic is the number of visits in a chosen period. This way, you can assess whether interest in your online store is growing or if you need to expand your marketing and advertising to increase traffic.
+
+Let’s take a look at Improvado’s cross-channel dashboard. It displays all vital metrics about your marketing performance, enabling you to see the performance of each campaign and channel in a single tab. Besides, you can monitor metrics broken down by gender, age, and geographical regions.
+
+ Improvado’s paid ads dashboard : overview ‍
+For marketers interested solely in web traffic overview, Pradeep Kumar G shared a comprehensive web traffic dashboard. It shows every traffic-related metric, from the total number of sessions to the best-performing referral domains.
+
+Web traffic dashboard example‍
+Bounce rate
+Bounce rate informs you what percentage of all sessions ended up viewing only a single page. To put it simpler, it shows you what part of your visitors wasn’t satisfied with your online store, at least as much to go check other pages than the one they’ve landed on. According to Oberlo, the average bounce rate for e-commerce companies reached 47% in Q2 of 2022. 
+
+User Behavior
+It's not exactly a metric but rather a set of different metrics that helps you find the most promising customers and optimize user journeys, listings, and more. 
+
+Here’s an example of a Shopify dashboard that shows the breakdown of customers by geographical region, types of purchased products, purchase frequency, and more. 
+
+Shopify customer journey dashboard‍
+Add to cart rate and abandoned cart rate
+Add to cart rate is the percentage of users that added some products to the cart during their visit. The other metric tells you what part of users abandon their carts and leave your e-commerce website without finalizing their transactions.
+
+The add-to-cart rate depends heavily on the type of goods you’re selling. Recent statistics from Oberlo show that everyday goods and groceries have a higher add-to-cart rate compared to luxurious items or large goods, such as furniture.  
+
+Add-to-Cart rate benchmark by industry
+As for cart abandonment, the average rate for the retail industry stands at 72.8%. Yet again, the rate varies depending on the type of product you’re selling. According to Bolt, fashion goods have the highest cart abandonment rate of 40%.
+
+Cart abandonment rate stats by industry
+A Shopify sales dashboard helps you understand whether your shop is in line with the industry’s benchmarks, why users abandon their carts, and what are the points of improvement. 
+
+Conversion rates and total sales
+You should analyze the conversion rate to learn if a proper percentage of visitors take the desired action on your store’s website. The goal may be signing in to the newsletter database or making a purchase. 
+
+Since buying is a widespread, final-stage conversion, you need to keep an eye on goals higher up the funnel to understand the percentage of users that become actual buyers. How many people that subscribed to your newsletter eventually became customers? What’s the percentage of users that made a purchase after a cart abandonment email? A well-designed Shopify dashboard should answer all of these questions.
+
+Average order value
+Average order value (AOV) helps sales specialists and marketers to define their next goals, devise a strategy and leverage discounts or recommendation systems. If it is too small, a company can offer additional products for an extra price or grant free delivery for orders above a given value. 
+
+AOV is calculated by dividing total revenue by the number of orders. However, for more detailed visualization, you can calculate the average order value by country or region. Here’s an example: 
+
+ Average order value by region dashboard example
+New vs. returning customers and customer lifetime value
+It is essential to know how many of your visitors are new customers who have returned to buy again. You can track your clients’ behavior and assess their loyalty. To learn if your acquisition campaigns are cost-effective, you can check your customer acquisition cost. 
+
+The Customer Lifetime Value (CLV) helps you to measure the profitability of your customers (how much money they are willing to spend during your entire relationship with your business) and allows you to better adjust personalized campaigns. 
+
+Here’s a formula to help you calculate CLV: 
+
+Average customer lifetime value = (average number of transactions per month) * (average order value) * (average gross margin) * (average customer lifespan) / number of clients for the particular period.
+
+There’s a vast space for experiments when displaying customer lifetime value. For example, you can find the most profitable customers by breaking down audiences into groups based on different criteria (sales channel, education, location, etc.). 
+
+Online Store Sessions
+This metric allows you to learn how much time visitors spend on your website. A session starts when users visit your store and ends when they leave (the session is also considered ended if a visitor doesn't interact with content for 30 minutes). In general, if the session is short, it can mean that the visitor is unsatisfied with the website (because he can’t find a particular product or find the website boring or non-intuitive, etc.). 
+
+According to different benchmarks, the median value for average session duration for B2C companies is 92.33 seconds.
+
+Online store sessions are considered a tricky metric thought because it is difficult to decide how long the session should last. 
+
+Inventory level
+In business, capital should flow. A high inventory level can mean that your capital is frozen. Information about inventory levels in specific periods, presented on the Shopify dashboard, can be used to adjust the store’s offer to the market’s demand. 
+
+Of course, inventory level also helps to manage products by making orders at the right time and in the right amounts. 
+
+Shipping costs
+Online store owners should make sure that products are being shipped efficiently. With access to such data in your Shopify dashboard, you can react fast when you realize that you overspend on shipping and delivery. 
+
+There are various ways to handle situations like that – you can negotiate new terms with your partners, increase the cost of delivery or raise the minimal value of the order for your customers.
+
+Grow Your Shopify Account with Improvado 
+
+Thanks to Improvado integrations with Shopify and 500+ marketing, sales, and analytics platforms, you can build a Shopify dashboard to serve as a universal command center of your store. Improvado’s advanced marketing analytics solutions will make your business more productive by:
+
+Saving time – Improvado can aggregate data from any data source in one place and present the one you need on your Shopify dashboard,
+Reducing the likelihood of errors – Improvado cleans and normalizes extracted data, so users receive the most accurate business insights, provided information will always be up-to-date, 
+Improving the efficiency of your decision-making process – with cross-channel dashboards and revenue attribution, your team gets all answers they need to optimize user journeys, find promising channels, and launch effective campaigns, 
+Supporting your team – Improvado goes from software to partner, helping you create any custom visualizations, calculate complex metrics, and get actionable insights out of raw data.
